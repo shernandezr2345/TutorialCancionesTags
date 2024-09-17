@@ -17,7 +17,8 @@ class App(QApplication):
         '''
         super(App, self).__init__(sys_argv)
 
-        # Lógica de la aplicación
+        # Lógica de la aplicación.....
+        
         self.logica = logica
 
         # Se inicializan todas las ventanas
