@@ -14,7 +14,7 @@ class Ventana_Album(QWidget):
         '''
         super().__init__()
         self.interfaz = interfaz
-        #Se establecen las características de la ventana
+        #Se establecen las características de la ventana...
         self.title = 'Mi música - album'
         self.left = 80
         self.top = 80
